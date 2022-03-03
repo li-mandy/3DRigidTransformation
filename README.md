@@ -7,6 +7,6 @@ You can figure it out A A point in the coordinate system P In the coordinate sys
 namely R by 3x3 The transformation matrix of, 
 t by 3x1 Displacement transformation vector, 
 The coordinates of the points here are 3x1 The column vector 
-Nonhomogeneous form , The homogeneous form is 4x1 Column vector , An extra element value is added 1 nothing more. 
+Nonhomogeneous form, The homogeneous form is 4x1 Column vector, an extra element value is added 1 nothing more. 
 In theory, given at least 3 Point to point, you can calculate R and t. 
 Natural, More point to point , The more accurate the calculated transformation 
